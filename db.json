@@ -1,0 +1,217 @@
+
+{
+    "blogs":[
+        {
+            "category":"Pizza",
+            "name":"American Cheesy Pizza",
+            "id":1,
+            "price":300,
+            "url":""
+
+        },
+        {
+            "category":"Pizza",
+            "name":"Kaju Crust Pizza",
+            "id":2,
+            "price":350,
+            "url":""
+        },
+        {
+            "category":"Pizza",
+            "name":"Mixed Cheese Pizza",
+            "id":3,
+            "price":330,
+            "url":""
+        },
+        {
+            "category":"Pizza",
+            "name":"Sweet Corn Pizza",
+            "id":4,
+            "price":300,
+            "url":""
+        },
+        {
+            "category":"Pizza",
+            "name":"Chicken Crust Pizza",
+            "id":5,
+            "price":300,
+            "url":""
+        },
+        {
+            "category":"Pizza",
+            "name":"Chicken Tikka Pizza",
+            "id":6,
+            "price":300,
+            "url":""
+        },
+        {
+            "category":"Biryani",
+            "name":"Chicken Fry Piece Biryani",
+            "id":7,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Biryani",
+            "name":"Chicken Leg Piece Biryani",
+            "id":8,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Biryani",
+            "name":"Mutton Biryani",
+            "id":9,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Biryani",
+            "name":"Mutton Keema Biryani",
+            "id":10,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Chicken Boneless Pulao",
+            "id":11,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Chicken Leg Piece Pulao",
+            "id":12,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Mutton Pulao",
+            "id":13,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Mutton Keema Pulao",
+            "id":14,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Chicken Tikka Masala Pulao",
+            "id":15,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Boneless Mutton Pulao",
+            "id":16,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Gongura Chicken Pulao",
+            "id":17,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Gongura Mutton Pulao",
+            "id":18,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Pulao",
+            "name":"Natukodi Pulao",
+            "id":19,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Oreo Milkshake",
+            "id":20,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Strawberry Milkshake",
+            "id":21,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Chocolate Milkshake",
+            "id":22,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Salted Caramel Milkshake",
+            "id":23,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Mounds Bar Milkshake",
+            "id":24,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Peanut Butter Milkshake",
+            "id":25,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Mint Oreo Milkshake",
+            "id":26,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Tiramisu Milkshake",
+            "id":27,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Chocolate Peanut Butter Milkshake",
+            "id":28,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Dark chocolate Milkshake",
+            "id":29,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Milkshake",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":30,
+            "price":300,
+            "url":"hh"
+        }
+
+    ]
+}
