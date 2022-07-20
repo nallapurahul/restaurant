@@ -63,21 +63,21 @@
             "name":"Mutton Biryani",
             "id":9,
             "price":300,
-            "url":"hh"
+            "url":"https://imagevars.gulfnews.com/2021/01/05/Mutton-Biryani-_176d2faa265_medium.jpg"
         },
         {
             "category":"Biryani",
             "name":"Mutton Keema Biryani",
             "id":10,
             "price":300,
-            "url":"hh"
+            "url":"https://www.faskitchen.com/wp-content/uploads/2015/11/mutton-keema-pulao.jpg"
         },
         {
             "category":"Pulao",
             "name":"Chicken Boneless Pulao",
             "id":11,
             "price":300,
-            "url":"hh"
+            "url":"https://myheartbeets.com/wp-content/uploads/2018/08/chicken-pulao-instant-pot-500x375.jpg"
         },
         {
             "category":"Pulao",
@@ -209,6 +209,41 @@
             "category":"Milkshake",
             "name":"Chocolate-Covered Strawberry Milkshake",
             "id":30,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":31,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":32,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":33,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":34,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":35,
             "price":300,
             "url":"hh"
         }
