@@ -106,14 +106,14 @@
             "id":15,
             "price":300,
             "url":"hh"
-        }
+        },
         {
             "category":"Milkshake",
             "name":"Chocolate Peanut Butter Milkshake",
             "id":16,
             "price":300,
             "url":"hh"
-        }
+        },
         {
             "category":"Milkshake",
             "name":"Oreo Milkshake",
