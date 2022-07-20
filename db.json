@@ -281,41 +281,6 @@
             "id":40,
             "price":300,
             "url":"hh"
-        },
-        {
-            "category":"Burger",
-            "name":"Chocolate-Covered Strawberry Milkshake",
-            "id":41,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Cocktails",
-            "name":"Chocolate-Covered Strawberry Milkshake",
-            "id":42,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Cocktails",
-            "name":"Chocolate-Covered Strawberry Milkshake",
-            "id":43,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Cocktails",
-            "name":"Chocolate-Covered Strawberry Milkshake",
-            "id":44,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Cocktails",
-            "name":"Chocolate-Covered Strawberry Milkshake",
-            "id":45,
-            "price":300,
-            "url":"hh"
         }
         
     ]
