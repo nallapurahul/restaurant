@@ -28,21 +28,21 @@
             "name":"Sweet Corn Pizza",
             "id":4,
             "price":300,
-            "url":""
+            "url":"https://i1.wp.com/greatmall.in/wp-content/uploads/2021/12/bakehouse-store38-1.png?fit=640%2C480&ssl=1"
         },
         {
             "category":"Pizza",
             "name":"Chicken Crust Pizza",
             "id":5,
             "price":300,
-            "url":""
+            "url":"https://i.ytimg.com/vi/xSKBFDxfwtk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBGZI082cJmngW1yRYgBkMtdo-qvQ"
         },
         {
             "category":"Pizza",
             "name":"Chicken Tikka Pizza",
             "id":6,
             "price":300,
-            "url":""
+            "url":"https://media.istockphoto.com/photos/homemade-indian-chicken-tikka-masala-pizza-picture-id1340589333?k=20&m=1340589333&s=612x612&w=0&h=N3d1G_nhuro9hJz2rXTUZNyFIEbAjBuzAZprZn0znO0="
         },
         {
             "category":"Biryani",
