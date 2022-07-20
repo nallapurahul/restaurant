@@ -134,84 +134,8 @@
             "id":19,
             "price":300,
             "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Oreo Milkshake",
-            "id":20,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Strawberry Milkshake",
-            "id":21,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Chocolate Milkshake",
-            "id":22,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Salted Caramel Milkshake",
-            "id":23,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Mounds Bar Milkshake",
-            "id":24,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Peanut Butter Milkshake",
-            "id":25,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Mint Oreo Milkshake",
-            "id":26,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Tiramisu Milkshake",
-            "id":27,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Chocolate Peanut Butter Milkshake",
-            "id":28,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Dark chocolate Milkshake",
-            "id":29,
-            "price":300,
-            "url":"hh"
-        },
-        {
-            "category":"Milkshake",
-            "name":"Chocolate-Covered Strawberry Milkshake",
-            "id":30,
-            "price":300,
-            "url":"hh"
         }
+       
         
 
  
