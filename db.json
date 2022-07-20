@@ -49,14 +49,14 @@
             "name":"Chicken Fry Piece Biryani",
             "id":7,
             "price":300,
-            "url":"hh"
+            "url":"https://us2guntur.com/images//10071img/FriedPieceChickenBiryani_B_151220.jpg"
         },
         {
             "category":"Biryani",
             "name":"Chicken Leg Piece Biryani",
             "id":8,
             "price":300,
-            "url":"hh"
+            "url":"https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x375.jpg"
         },
         {
             "category":"Biryani",
@@ -211,7 +211,167 @@
             "id":30,
             "price":300,
             "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":31,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":32,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":33,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":34,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":35,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":36,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":37,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":38,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":39,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":40,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Burger",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":41,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":42,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":43,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":44,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":45,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":46,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":47,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":48,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":49,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":50,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":51,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":52,
+            "price":300,
+            "url":"hh"
+        },
+        {
+            "category":"Cocktails",
+            "name":"Chocolate-Covered Strawberry Milkshake",
+            "id":53,
+            "price":300,
+            "url":"hh"
         }
-
     ]
 }
